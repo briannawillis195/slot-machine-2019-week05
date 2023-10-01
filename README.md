@@ -22,3 +22,6 @@ I completed the challenge: 5
 I feel good about my code: 4
 I'm not sure if my constructors are setup cleanly...
 ```
+
+<img width="1281" alt="SlotMachine" src="https://github.com/briannawillis195/slot-machine-2019-week05/assets/143905399/0616caa5-c93a-453e-a064-d2762b69648e">
+
